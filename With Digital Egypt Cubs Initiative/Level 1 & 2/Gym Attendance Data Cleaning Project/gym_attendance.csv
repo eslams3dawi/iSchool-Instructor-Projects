@@ -1,0 +1,17 @@
+ID,class_name,instructor,day,attendees,fee_usd
+1,Yoga,Ms. Rania,Monday,18.0,50
+2,yoga,Ms. Rania,Tuesday,22.0,50
+3,Zumba,Mr. Tarek,Monday,30.0,-10
+4,Pilates,Ms. Dina,Wednesday,,45
+5,ZUMBA,Mr. Tarek,Thursday,27.0,70
+6,Spinning,Mr. Hany,Friday,350.0,60
+7,Pilates,Ms. Dina,Friday,14.0,45
+8,Zumba,Mr. Tarek,Monday,30.0,-10
+9,Yoga,Ms. Rania,Saturday,20.0,50
+10,boxing,Coach Amr,Sunday,25.0,80
+11,Boxing,Coach Amr,Monday,,80
+12,Cardio,Ms. Nour,Tuesday,40.0,55
+13,CARDIO,Ms. Nour,Wednesday,38.0,55
+14,Spinning,Mr. Hany,Thursday,22.0,-5
+15,Yoga,Ms. Rania,Friday,19.0,50
+16,Pilates,Ms. Dina,Saturday,16.0,45
