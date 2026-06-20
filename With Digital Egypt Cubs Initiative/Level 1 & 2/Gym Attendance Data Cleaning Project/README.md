@@ -153,13 +153,11 @@ At the end of this activity, students should be able to:
 
 ---
 
-## Instructor Notes
+## Project Code
 
-This activity is designed to encourage discussion and critical thinking.
+![Gym Attendance Project](Gym_Attendance_Data_Cleaning.ipynb)
 
-Students should first identify data quality issues before implementing fixes. The focus should remain on understanding why each cleaning step is necessary and how it affects the final analysis.
 
----
 
 ### Digital Egypt Cubs Initiative (DECI)
 
